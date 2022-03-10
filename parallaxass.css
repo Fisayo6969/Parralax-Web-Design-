@@ -1,0 +1,79 @@
+#container {
+  
+   height: 97vh;
+   width: 100%;
+   
+   margin: auto;
+   background-image: url(./parallax.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   background-attachment: fixed;
+ 
+}
+
+.first {
+    border: thin solid rgb(92, 92, 92);
+   padding: 50px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   
+}
+
+#container3 {
+  
+    height: 97vh;
+    width: 100%;
+    
+    margin: auto;
+    background-image: url(./paralax2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+ }
+ .first2 {
+    border: thin solid rgb(255, 255, 255);
+   padding: 50px;
+   background-color: rgb(0, 0, 31);
+   font-family: cursive;
+}
+
+ #container4 {
+  
+    height: 97vh;
+    width: 100%;
+    
+    margin: auto;
+    background-image: url(./paralax3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ }
+ .first3 {
+    border: thin solid rgb(255, 255, 255);
+   padding: 50px;
+   background-color: rgb(0, 0, 31);
+   font-family: cursive;
+}
+
+#container5 {
+  
+    height: 97vh;
+    width: 100%;
+    
+    margin: auto;
+    background-image: url(./parallax.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+ }
+
+
+
